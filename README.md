@@ -2,7 +2,6 @@
 
 Hey there
 Welcome to this little corner of GitHub where we talk about something super important: **staying safe online**.  
-
 ---
 
 ## Why this repo exists
